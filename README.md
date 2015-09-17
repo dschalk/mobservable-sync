@@ -1,3 +1,5 @@
+Cows and horses.
+
 The included index.html file is ready to go. Just load it into a browser as a file or with a web server.
 If you modify the code, you will need to run the following code from your terminal:
 ```javascript
